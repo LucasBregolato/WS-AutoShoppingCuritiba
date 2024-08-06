@@ -7,5 +7,6 @@
 
 # Status:
   - Obtenção dos dados: OK
+    - A pasta "data" é destinada a salvar os arquivos gerados, o arquivo presente é apenas uma amostra de 2 páginas que foram coletadas.
   - Limpeza: 80%
   - Definição de modelo de ML: 0% 
