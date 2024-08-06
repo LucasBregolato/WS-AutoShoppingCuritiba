@@ -5,7 +5,7 @@
   - ser uma fonte confiável
   - possuir no mínimo 3 características para analisar
 
-# Staus:
+# Status:
   - Obtenção dos dados: OK
   - Limpeza: 80%
   - Definição de modelo de ML: 0% 
